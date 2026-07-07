@@ -11,7 +11,7 @@ Skills:
 - Data Visualization
 - Data Analytics
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/DonaMercyBenedict
 LinkedIn: https://www.linkedin.com/in/dona-mercy-benedict-b57527159/
 
 # 📊 Superstore Sales Analysis Dashboard | Power BI
