@@ -2,7 +2,7 @@
 
 **Dona Mercy Benedict**
 
-Data Analyst | Power BI Developer
+Junior Data Analyst | Power BI Developer
 
 Skills:
 - Power BI
