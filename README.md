@@ -1,3 +1,19 @@
+## 👤 Author
+
+**Dona Mercy Benedict**
+
+Data Analyst | Power BI Developer
+
+Skills:
+- Power BI
+- SQL
+- Excel
+- Data Visualization
+- Data Analytics
+
+GitHub: https://github.com/yourusername
+LinkedIn: https://www.linkedin.com/in/dona-mercy-benedict-b57527159/
+
 # 📊 Superstore Sales Analysis Dashboard | Power BI
 
 ## 📌 Project Overview
